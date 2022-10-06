@@ -25,6 +25,6 @@
   <a href = "mailto:ketov-x@yandex.ru"><img src="https://img.shields.io/badge/-Yandex-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
   <a href="https://ketovx.t.me" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/paperdevil/paperdevil/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paperdevil/paperdevil/paperdevil/output/github-contribution-grid-snake.svg)
  
 </div>
